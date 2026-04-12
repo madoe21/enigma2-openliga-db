@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenLigaDB 1.0.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d leagues subscribed for %s"
+msgstr "%d Ligen abonniert für %s"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Add subscription"
+msgstr "Abonnement hinzufügen"
+
+msgid "Already subscribed"
+msgstr "Bereits abonniert"
+
+msgid "Already subscribed or no leagues found"
+msgstr "Bereits abonniert oder keine Ligen gefunden"
+
+msgid "Blue"
+msgstr "Blau"
+
+msgid "Browse events"
+msgstr "Ereignisse durchsuchen"
+
+msgid "Choose"
+msgstr "Auswählen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Controls"
+msgstr "Bedienung"
+
+msgid "Could not validate matchday"
+msgstr "Spieltag konnte nicht validiert werden"
+
+msgid "Could not validate season"
+msgstr "Saison konnte nicht validiert werden"
+
+msgid "Current season"
+msgstr "Aktuelle Saison"
+
+msgid "Data may be delayed by OpenLigaDB providers."
+msgstr "Daten können durch OpenLigaDB-Provider verzögert sein."
+
+msgid "Data source"
+msgstr "Datenquelle"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Events"
+msgstr "Ereignisse"
+
+msgid "Information"
+msgstr "Informationen"
+
+msgid "LCD only"
+msgstr "Nur LCD"
+
+msgid "League"
+msgstr "Liga"
+
+msgid "League subscription added"
+msgstr "Liga-Abonnement hinzugefügt"
+
+msgid "Leagues"
+msgstr "Ligen"
+
+msgid "Left/Right changes value"
+msgstr "Links/Rechts ändert Wert"
+
+msgid "Loading..."
+msgstr "Lade..."
+
+msgid "Matchday"
+msgstr "Spieltag"
+
+msgid "Matchday subscription added"
+msgstr "Spieltag-Abonnement hinzugefügt"
+
+msgid "Matchdays"
+msgstr "Spieltage"
+
+msgid "Matches"
+msgstr "Spiele"
+
+msgid "Message timeout (s)"
+msgstr "Anzeigedauer (s)"
+
+msgid "No entries available"
+msgstr "Keine Einträge vorhanden"
+
+msgid "No events available"
+msgstr "Keine Ereignisse vorhanden"
+
+msgid "No season available for this league"
+msgstr "Keine Saison für diese Liga vorhanden"
+
+msgid "No sports available"
+msgstr "Keine Sportarten vorhanden"
+
+msgid "No subscription selected"
+msgstr "Kein Abonnement ausgewählt"
+
+msgid "No table data available"
+msgstr "Keine Tabellendaten vorhanden"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OK to open"
+msgstr "OK zum Öffnen"
+
+msgid "Only current or future matchdays can be subscribed"
+msgstr "Nur aktuelle oder zukünftige Spieltage können abonniert werden"
+
+msgid "Only current or future seasons can be subscribed"
+msgstr "Nur aktuelle oder zukünftige Saisons können abonniert werden"
+
+msgid "OpenLigaDB Browser"
+msgstr "OpenLigaDB Browser"
+
+msgid "Output target"
+msgstr "Ausgabeziel"
+
+msgid "Polling interval (s)"
+msgstr "Abrufintervall (s)"
+
+msgid "RED = Back/Exit, GREEN = direct action, BLUE = context action"
+msgstr "ROT = Zurück/Beenden, GRÜN = direkte Aktion, BLAU = Kontext-Aktion"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Season"
+msgstr "Saison"
+
+msgid "Season subscription added"
+msgstr "Saison-Abonnement hinzugefügt"
+
+msgid "Seasons"
+msgstr "Saisons"
+
+msgid "Select a league"
+msgstr "Liga auswählen"
+
+msgid "Select a matchday"
+msgstr "Spieltag auswählen"
+
+msgid "Select a sport"
+msgstr "Sportart auswählen"
+
+msgid "Select a team"
+msgstr "Team auswählen"
+
+msgid "Select subscription type"
+msgstr "Abo-Typ auswählen"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+msgid "Sports"
+msgstr "Sportarten"
+
+msgid "Subscribes the team in all leagues of this sport"
+msgstr "Abonniert das Team in allen Ligen dieser Sportart"
+
+msgid "Subscription removed"
+msgstr "Abonnement entfernt"
+
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+msgid "Table"
+msgstr "Tabelle"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Team subscription added"
+msgstr "Team-Abonnement hinzugefügt"
+
+msgid "Thank you OpenLigaDB for providing open sports data."
+msgstr "Danke an OpenLigaDB für offene Sportdaten."
+
+msgid "Thanks"
+msgstr "Danke"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "Nur UI"

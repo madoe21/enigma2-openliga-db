@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenLigaDB 1.0.0\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d leagues subscribed for %s"
+msgstr "%d leghe sottoscritte per %s"
+
+msgid "Add"
+msgstr "Aggiungi"
+
+msgid "Add subscription"
+msgstr "Aggiungi sottoscrizione"
+
+msgid "Already subscribed"
+msgstr "Già sottoscritto"
+
+msgid "Already subscribed or no leagues found"
+msgstr "Già sottoscritto o nessuna lega trovata"
+
+msgid "Blue"
+msgstr "Blu"
+
+msgid "Browse events"
+msgstr "Sfoglia eventi"
+
+msgid "Choose"
+msgstr "Scegli"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Controls"
+msgstr "Comandi"
+
+msgid "Could not validate matchday"
+msgstr "Impossibile validare la giornata"
+
+msgid "Could not validate season"
+msgstr "Impossibile validare la stagione"
+
+msgid "Current season"
+msgstr "Stagione corrente"
+
+msgid "Data may be delayed by OpenLigaDB providers."
+msgstr "I dati potrebbero essere ritardati dai provider OpenLigaDB."
+
+msgid "Data source"
+msgstr "Fonte dati"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Events"
+msgstr "Eventi"
+
+msgid "Information"
+msgstr "Informazioni"
+
+msgid "LCD only"
+msgstr "Solo LCD"
+
+msgid "League"
+msgstr "Lega"
+
+msgid "League subscription added"
+msgstr "Sottoscrizione lega aggiunta"
+
+msgid "Leagues"
+msgstr "Leghe"
+
+msgid "Left/Right changes value"
+msgstr "Sinistra/Destra cambia valore"
+
+msgid "Loading..."
+msgstr "Caricamento..."
+
+msgid "Matchday"
+msgstr "Giornata"
+
+msgid "Matchday subscription added"
+msgstr "Sottoscrizione giornata aggiunta"
+
+msgid "Matchdays"
+msgstr "Giornate"
+
+msgid "Matches"
+msgstr "Partite"
+
+msgid "Message timeout (s)"
+msgstr "Timeout messaggio (s)"
+
+msgid "No entries available"
+msgstr "Nessuna voce disponibile"
+
+msgid "No events available"
+msgstr "Nessun evento disponibile"
+
+msgid "No season available for this league"
+msgstr "Nessuna stagione disponibile per questa lega"
+
+msgid "No sports available"
+msgstr "Nessuno sport disponibile"
+
+msgid "No subscription selected"
+msgstr "Nessuna sottoscrizione selezionata"
+
+msgid "No table data available"
+msgstr "Nessun dato di classifica disponibile"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OK to open"
+msgstr "OK per aprire"
+
+msgid "Only current or future matchdays can be subscribed"
+msgstr "Si possono sottoscrivere solo giornate correnti o future"
+
+msgid "Only current or future seasons can be subscribed"
+msgstr "Si possono sottoscrivere solo stagioni correnti o future"
+
+msgid "OpenLigaDB Browser"
+msgstr "Browser OpenLigaDB"
+
+msgid "Output target"
+msgstr "Destinazione uscita"
+
+msgid "Polling interval (s)"
+msgstr "Intervallo polling (s)"
+
+msgid "RED = Back/Exit, GREEN = direct action, BLUE = context action"
+msgstr "ROSSO = Indietro/Esci, VERDE = azione diretta, BLU = azione contestuale"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Season"
+msgstr "Stagione"
+
+msgid "Season subscription added"
+msgstr "Sottoscrizione stagione aggiunta"
+
+msgid "Seasons"
+msgstr "Stagioni"
+
+msgid "Select a league"
+msgstr "Seleziona una lega"
+
+msgid "Select a matchday"
+msgstr "Seleziona una giornata"
+
+msgid "Select a sport"
+msgstr "Seleziona uno sport"
+
+msgid "Select a team"
+msgstr "Seleziona una squadra"
+
+msgid "Select subscription type"
+msgstr "Seleziona tipo sottoscrizione"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Settings saved"
+msgstr "Impostazioni salvate"
+
+msgid "Sports"
+msgstr "Sport"
+
+msgid "Subscribes the team in all leagues of this sport"
+msgstr "Sottoscrive la squadra in tutte le leghe di questo sport"
+
+msgid "Subscription removed"
+msgstr "Sottoscrizione rimossa"
+
+msgid "Subscriptions"
+msgstr "Sottoscrizioni"
+
+msgid "Table"
+msgstr "Classifica"
+
+msgid "Team"
+msgstr "Squadra"
+
+msgid "Team subscription added"
+msgstr "Sottoscrizione squadra aggiunta"
+
+msgid "Thank you OpenLigaDB for providing open sports data."
+msgstr "Grazie a OpenLigaDB per i dati sportivi aperti."
+
+msgid "Thanks"
+msgstr "Grazie"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "Solo UI"

@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenLigaDB 1.0.0\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d leagues subscribed for %s"
+msgstr "%d ligas suscritas para %s"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add subscription"
+msgstr "Añadir suscripción"
+
+msgid "Already subscribed"
+msgstr "Ya suscrito"
+
+msgid "Already subscribed or no leagues found"
+msgstr "Ya suscrito o no se encontraron ligas"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "Browse events"
+msgstr "Explorar eventos"
+
+msgid "Choose"
+msgstr "Elegir"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Controls"
+msgstr "Controles"
+
+msgid "Could not validate matchday"
+msgstr "No se pudo validar la jornada"
+
+msgid "Could not validate season"
+msgstr "No se pudo validar la temporada"
+
+msgid "Current season"
+msgstr "Temporada actual"
+
+msgid "Data may be delayed by OpenLigaDB providers."
+msgstr "Los datos pueden retrasarse por los proveedores de OpenLigaDB."
+
+msgid "Data source"
+msgstr "Fuente de datos"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "LCD only"
+msgstr "Solo LCD"
+
+msgid "League"
+msgstr "Liga"
+
+msgid "League subscription added"
+msgstr "Suscripción a liga añadida"
+
+msgid "Leagues"
+msgstr "Ligas"
+
+msgid "Left/Right changes value"
+msgstr "Izq./Der. cambia valor"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Matchday"
+msgstr "Jornada"
+
+msgid "Matchday subscription added"
+msgstr "Suscripción a jornada añadida"
+
+msgid "Matchdays"
+msgstr "Jornadas"
+
+msgid "Matches"
+msgstr "Partidos"
+
+msgid "Message timeout (s)"
+msgstr "Tiempo de mensaje (s)"
+
+msgid "No entries available"
+msgstr "No hay entradas disponibles"
+
+msgid "No events available"
+msgstr "No hay eventos disponibles"
+
+msgid "No season available for this league"
+msgstr "No hay temporada para esta liga"
+
+msgid "No sports available"
+msgstr "No hay deportes disponibles"
+
+msgid "No subscription selected"
+msgstr "Ninguna suscripción seleccionada"
+
+msgid "No table data available"
+msgstr "No hay datos de tabla"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OK to open"
+msgstr "OK para abrir"
+
+msgid "Only current or future matchdays can be subscribed"
+msgstr "Solo jornadas actuales o futuras pueden suscribirse"
+
+msgid "Only current or future seasons can be subscribed"
+msgstr "Solo temporadas actuales o futuras pueden suscribirse"
+
+msgid "OpenLigaDB Browser"
+msgstr "Navegador OpenLigaDB"
+
+msgid "Output target"
+msgstr "Destino de salida"
+
+msgid "Polling interval (s)"
+msgstr "Intervalo de sondeo (s)"
+
+msgid "RED = Back/Exit, GREEN = direct action, BLUE = context action"
+msgstr "ROJO = Atrás/Salir, VERDE = acción directa, AZUL = acción contextual"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Season"
+msgstr "Temporada"
+
+msgid "Season subscription added"
+msgstr "Suscripción a temporada añadida"
+
+msgid "Seasons"
+msgstr "Temporadas"
+
+msgid "Select a league"
+msgstr "Selecciona una liga"
+
+msgid "Select a matchday"
+msgstr "Selecciona una jornada"
+
+msgid "Select a sport"
+msgstr "Selecciona un deporte"
+
+msgid "Select a team"
+msgstr "Selecciona un equipo"
+
+msgid "Select subscription type"
+msgstr "Selecciona tipo de suscripción"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+msgid "Sports"
+msgstr "Deportes"
+
+msgid "Subscribes the team in all leagues of this sport"
+msgstr "Suscribe al equipo en todas las ligas de este deporte"
+
+msgid "Subscription removed"
+msgstr "Suscripción eliminada"
+
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+msgid "Table"
+msgstr "Tabla"
+
+msgid "Team"
+msgstr "Equipo"
+
+msgid "Team subscription added"
+msgstr "Suscripción a equipo añadida"
+
+msgid "Thank you OpenLigaDB for providing open sports data."
+msgstr "Gracias a OpenLigaDB por los datos deportivos abiertos."
+
+msgid "Thanks"
+msgstr "Gracias"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "Solo UI"

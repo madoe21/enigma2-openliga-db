@@ -1,0 +1,67 @@
+@baseUrl = https://api.openligadb.de
+@leagueShortcut = bl1
+@leagueId = 4500
+@season = 2024
+@matchday = 1
+@matchId = 72214
+@teamId = 40
+@teamFilter = Dortmund
+
+### Health check / API root
+GET {{baseUrl}}/
+Accept: application/json
+
+### 1) Alle verfuegbaren Ligen abrufen
+### Daraus kannst du sport + leagueShortcut + leagueSeason ableiten
+GET {{baseUrl}}/getavailableleagues
+Accept: application/json
+
+### 2) Aktuelle Runde fuer eine Liga (liefert GroupOrderID)
+GET {{baseUrl}}/getcurrentgroup/{{leagueShortcut}}
+Accept: application/json
+
+### 3) Matchdaten einer Liga + Saison (alle Spieltage)
+GET {{baseUrl}}/getmatchdata/{{leagueShortcut}}/{{season}}
+Accept: application/json
+
+### 4) Matchdaten eines konkreten Spieltags
+GET {{baseUrl}}/getmatchdata/{{leagueShortcut}}/{{season}}/{{matchday}}
+Accept: application/json
+
+### 5) Verfuegbare Teams einer Liga + Saison
+GET {{baseUrl}}/getavailableteams/{{leagueShortcut}}/{{season}}
+Accept: application/json
+
+### 6) Ein einzelnes Match per MatchID
+### Wichtig: OpenLigaDB liefert hier je nach API-Version eine Liste mit genau 1 Objekt.
+GET {{baseUrl}}/getmatchdata/{{matchId}}
+Accept: application/json
+
+### 7) Team-spezifische Matchliste (optional)
+### WICHTIG: hier wird ein Team-Filterstring erwartet (z.B. Name-Teil), nicht zwingend TeamId.
+GET {{baseUrl}}/getmatchdata/{{leagueShortcut}}/{{season}}/{{teamFilter}}
+Accept: application/json
+
+### 8) Tabelle einer Liga + Saison (optional, fuer Standings)
+GET {{baseUrl}}/getbltable/{{leagueShortcut}}/{{season}}
+Accept: application/json
+
+### 9) Naechstes Match eines Teams (optional, per leagueId + teamId)
+GET {{baseUrl}}/getnextmatchbyleagueteam/{{leagueId}}/{{teamId}}
+Accept: application/json
+
+### 10) Letztes Match eines Teams (optional)
+GET {{baseUrl}}/getlastmatchbyleagueteam/{{leagueId}}/{{teamId}}
+Accept: application/json
+
+### 11) Team-spezifische Matches per TeamId und Zeitfenster (alternative)
+GET {{baseUrl}}/getmatchesbyteamid/{{teamId}}/10/10
+Accept: application/json
+
+### Beispiel-Flow fuer dein Plugin
+### a) getavailableleagues -> Sport aus leagueSport ableiten
+### b) League aus leagueShortcut waehlen
+### c) Saison aus leagueSeason waehlen
+### d) getavailableteams fuer Team-Subscriptions
+### e) getcurrentgroup + getmatchdata/{league}/{season}/{matchday}
+### f) pro Match GoalGetter auswerten (Events)

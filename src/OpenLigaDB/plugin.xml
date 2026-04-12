@@ -1,0 +1,6 @@
+<plugin>
+    <name>OpenLigaDB</name>
+    <description>OpenLigaDB event browser and notifier for Enigma2 (data may be delayed)</description>
+    <author>madoe21</author>
+    <version>1.0.0</version>
+</plugin>

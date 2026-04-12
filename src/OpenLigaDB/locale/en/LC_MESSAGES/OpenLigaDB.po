@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenLigaDB 1.0.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%d leagues subscribed for %s"
+msgstr "%d leagues subscribed for %s"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Add subscription"
+msgstr "Add subscription"
+
+msgid "Already subscribed"
+msgstr "Already subscribed"
+
+msgid "Already subscribed or no leagues found"
+msgstr "Already subscribed or no leagues found"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Browse events"
+msgstr "Browse events"
+
+msgid "Choose"
+msgstr "Choose"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Controls"
+msgstr "Controls"
+
+msgid "Could not validate matchday"
+msgstr "Could not validate matchday"
+
+msgid "Could not validate season"
+msgstr "Could not validate season"
+
+msgid "Current season"
+msgstr "Current season"
+
+msgid "Data may be delayed by OpenLigaDB providers."
+msgstr "Data may be delayed by OpenLigaDB providers."
+
+msgid "Data source"
+msgstr "Data source"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "LCD only"
+msgstr "LCD only"
+
+msgid "League"
+msgstr "League"
+
+msgid "League subscription added"
+msgstr "League subscription added"
+
+msgid "Leagues"
+msgstr "Leagues"
+
+msgid "Left/Right changes value"
+msgstr "Left/Right changes value"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Matchday"
+msgstr "Matchday"
+
+msgid "Matchday subscription added"
+msgstr "Matchday subscription added"
+
+msgid "Matchdays"
+msgstr "Matchdays"
+
+msgid "Matches"
+msgstr "Matches"
+
+msgid "Message timeout (s)"
+msgstr "Message timeout (s)"
+
+msgid "No entries available"
+msgstr "No entries available"
+
+msgid "No events available"
+msgstr "No events available"
+
+msgid "No season available for this league"
+msgstr "No season available for this league"
+
+msgid "No sports available"
+msgstr "No sports available"
+
+msgid "No subscription selected"
+msgstr "No subscription selected"
+
+msgid "No table data available"
+msgstr "No table data available"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OK to open"
+msgstr "OK to open"
+
+msgid "Only current or future matchdays can be subscribed"
+msgstr "Only current or future matchdays can be subscribed"
+
+msgid "Only current or future seasons can be subscribed"
+msgstr "Only current or future seasons can be subscribed"
+
+msgid "OpenLigaDB Browser"
+msgstr "OpenLigaDB Browser"
+
+msgid "Output target"
+msgstr "Output target"
+
+msgid "Polling interval (s)"
+msgstr "Polling interval (s)"
+
+msgid "RED = Back/Exit, GREEN = direct action, BLUE = context action"
+msgstr "RED = Back/Exit, GREEN = direct action, BLUE = context action"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Season"
+msgstr "Season"
+
+msgid "Season subscription added"
+msgstr "Season subscription added"
+
+msgid "Seasons"
+msgstr "Seasons"
+
+msgid "Select a league"
+msgstr "Select a league"
+
+msgid "Select a matchday"
+msgstr "Select a matchday"
+
+msgid "Select a sport"
+msgstr "Select a sport"
+
+msgid "Select a team"
+msgstr "Select a team"
+
+msgid "Select subscription type"
+msgstr "Select subscription type"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings saved"
+msgstr "Settings saved"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Subscribes the team in all leagues of this sport"
+msgstr "Subscribes the team in all leagues of this sport"
+
+msgid "Subscription removed"
+msgstr "Subscription removed"
+
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+msgid "Table"
+msgstr "Table"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Team subscription added"
+msgstr "Team subscription added"
+
+msgid "Thank you OpenLigaDB for providing open sports data."
+msgstr "Thank you OpenLigaDB for providing open sports data."
+
+msgid "Thanks"
+msgstr "Thanks"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "UI only"
