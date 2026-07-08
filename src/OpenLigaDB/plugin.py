@@ -4,8 +4,8 @@ from __future__ import absolute_import
 from Plugins.Plugin import PluginDescriptor
 
 from . import _
-from .api import OpenLigaDbClient
-from .config_store import OpenLigaStore
+from .core.api import OpenLigaDbClient
+from .core.config_store import OpenLigaStore
 from .screens import OpenLigaMainScreen
 from .services import EventDispatcher, LcdEventService, PollingService, UiEventService
 
