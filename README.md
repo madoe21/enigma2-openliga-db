@@ -1,5 +1,7 @@
 # OpenLigaDB Plugin for Enigma2
 
+[![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
+
 This plugin turns the old goal test into a full OpenLigaDB browser + notifier for Enigma2.
 
 ## Features
