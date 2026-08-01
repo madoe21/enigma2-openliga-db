@@ -64,4 +64,4 @@ Accept: application/json
 ### c) Saison aus leagueSeason waehlen
 ### d) getavailableteams fuer Team-Subscriptions
 ### e) getcurrentgroup + getmatchdata/{league}/{season}/{matchday}
-### f) pro Match GoalGetter auswerten (Events)
+### f) pro Match Goals auswerten (Events)
