@@ -48,7 +48,7 @@ def event_kind(goal):
 def render_popup_event(match, goal):
     t1 = team_short(match.get("Team1") or {})
     t2 = team_short(match.get("Team2") or {})
-    minute = goal.get("GoalGetterMinute") or "?"
+    minute = goal.get("MatchMinute") or "?"
     scorer = goal.get("GoalGetterName") or "Unknown"
     kind = event_kind(goal)
 
@@ -70,7 +70,7 @@ def render_popup_event(match, goal):
 
 
 def render_event_row(match, goal):
-    minute = goal.get("GoalGetterMinute") or "?"
+    minute = goal.get("MatchMinute") or "?"
     scorer = goal.get("GoalGetterName") or "Unknown"
     kind = event_kind(goal)
 

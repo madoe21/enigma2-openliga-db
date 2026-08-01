@@ -73,7 +73,7 @@ class PollingEngine(object):
                 if team1 != team_id and team2 != team_id:
                     continue
 
-            goals = match.get("GoalGetter") or []
+            goals = match.get("Goals") or []
             if not isinstance(goals, list):
                 continue
 
@@ -89,7 +89,7 @@ class PollingEngine(object):
     def _event_id(self, match, goal):
         match_id = match.get("MatchID")
         goal_id = goal.get("GoalGetterID")
-        minute = goal.get("GoalGetterMinute")
+        minute = goal.get("MatchMinute")
         score1 = goal.get("ScoreTeam1")
         score2 = goal.get("ScoreTeam2")
         t1 = team_short(match.get("Team1") or {})
