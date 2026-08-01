@@ -15,7 +15,7 @@ from Screens.Screen import Screen
 from Tools.Directories import SCOPE_PLUGINS, resolveFilename
 
 from . import _
-from .core import (
+from .helpers import (
     build_table_row,
     league_latest_season,
     make_league_subscription,
