@@ -317,7 +317,7 @@ class OpenLigaDbClient(object):
 
     def get_match_events(self, match_id):
         match = self.get_match(match_id)
-        events = match.get("GoalGetter") or []
+        events = match.get("Goals") or []
         if isinstance(events, list):
             return events
         return []
